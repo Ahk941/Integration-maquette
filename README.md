@@ -1,3 +1,2 @@
 # Test
-Voici le résultat de mon test, intégration d'une maquette en 1heure.
-Malheureusement je n'ai pas ue le temps de terminer ce test ainsi que l'améliorer..
+Intégration d'une maquette d'une durée de 1h, malheuresement je n'ai pas eu le temps de le finir et l'améliorer..
